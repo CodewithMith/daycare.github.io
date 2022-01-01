@@ -1,0 +1,12 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.align {
+  align-items: center;
+}
+.image1 {
+  width: 20px;
+  height: 20px;
+}
+
